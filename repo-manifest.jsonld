@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/sinonym/commit/3fdad803ba0e13f58c84d1c1ac1bedbfcb2927e1",
       "git:hexsha": "3fdad803ba0e13f58c84d1c1ac1bedbfcb2927e1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:15:04.235986+00:00"
     }
   ]
 }
