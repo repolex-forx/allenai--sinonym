@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "sinonym",
+  "versions": [
+    {
+      "commit": "3fdad803ba0e13f58c84d1c1ac1bedbfcb2927e1",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:15:04.236475+00:00"
+    }
+  ]
+}
